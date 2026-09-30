@@ -365,5 +365,3 @@ Automatic renewal/monitoring
 ```
 
 > **SSL is not only about buying a certificate. The important part is configuring HTTPS correctly and managing the certificate throughout its lifecycle.**
-
-
