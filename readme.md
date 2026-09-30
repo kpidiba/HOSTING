@@ -41,3 +41,13 @@ hosting/
 ├── 08-security/
 └── 09-cost-comparison/
 ```
+
+### HOSTING PROVIDERS
+
+- https://hosting.com
+
+- https://www.hostinger.com
+
+- https://www.lws.fr
+
+- https://www.namecheap.com
